@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="emerg_ncia">Emergência</string>
+    <string name="mecanico">Problemas Mecânicos</string>
+    <string name="pesquisa">Pesquisa</string>
+    <string name="abrir">Abrir Mapa</string>
+    <string name="emerparen">(Hospital, Delegacia de Policia, Bombeiros)</string>
+    <string name="mechparen">(Mecânico, Borracheiro)</string>
+</resources>
